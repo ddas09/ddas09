@@ -4,7 +4,13 @@
 [![Leetcode Badge](https://img.shields.io/badge/-ddas09-orange?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/u/ddas09/)](https://leetcode.com/u/ddas09/)
 [![Gmail Badge](https://img.shields.io/badge/-ddas.dpankar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ddas.dpankar@gmail.com)](mailto:ddas.dpankar@gmail.com)
 
-I'm a software engineer with 3+ years of experience specializing in backend development. Currently, I work at @Catchpoint as an SDE 2, focusing on the development of Internet Performance Monitoring (IPM) applications. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/dpankardas/)!
+As a software engineer with over 3+ years of experience, I specialize in backend development. Throughout my career, I have contributed to various projects, working extensively with technologies such as .NET, React, Angular, GraphQL, Entity Framework, and SQL Server.
+
+Currently, I am working at @Catchpoint as an SDE 2, where I contribute to the development of Internet Performance Monitoring (IPM) applications, ensuring optimal performance and reliability for our clients worldwide. I am passionate about developing scalable applications with a focus on clean architecture. I am committed to staying up-to-date with industry best practices and continually improving my skills.
+
+Beyond my professional work, I love mentoring and enjoy helping others grow their skills and achieve their career goals. I believe in fostering an environment of continuous learning and collaboration, where knowledge sharing and mutual support are key to professional growth.
+
+Thanks for visiting my profile. I would love to [connect](https://www.linkedin.com/in/dpankardas/) for any kind of collaboration.
 
 ## Technologies I work with
 
